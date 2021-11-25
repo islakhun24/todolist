@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo App
 
-Demo app click [here]([todolisttest-ten.vercel.app](https://todolisttest-ten.vercel.app/)).
+Demo app click [here](https://todolisttest-ten.vercel.app/).
 
 
 ## Run Local
